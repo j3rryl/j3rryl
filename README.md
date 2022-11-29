@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">Backend Guy but also crazy UI designs.</h3>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_2glqweqs.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<img align="right" alt="Coding" width="400" src="/slide.gif">
 
 - 🔭 I’m currently working on **words-on-paper**
 
