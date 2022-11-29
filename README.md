@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **words-on-paper**
 
-- 🌱 I’m currently learning **Data Science, python and all that.**
+- 🌱 Trying to grasp **Data Science, python and all that.**
 
-- 👨‍💻 Projects... [Portfolio still working progress, but you can find the rest on github.com/j3rryl](Portfolio still working progress, but you can find the rest on github.com/j3rryl)
+- 👨‍💻 Projects... (Portfolio still working progress, but you can find the rest on github.com/j3rryl)
 
 - 💬 Ask me about **anything**
 
