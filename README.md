@@ -13,7 +13,6 @@
 - 📫 How to reach me **jeremymunroe0@gmail.com**
 
 - ⚡ Fun fact **I'm kinda of an eccentric**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j3rryl&label=Profile%20views&color=0e75b6&style=flat" alt="j3rryl" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
