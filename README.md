@@ -6,7 +6,7 @@
 
 - 🌱 Trying to grasp **Data Science, python and all that.**
 
-- 👨‍💻 Projects... (j3rryl.github.io/jeremy-munroe/)
+- 👨‍💻 Projects... (https://j3rryl.github.io/jeremy-munroe/)
 
 - 💬 Ask me about **anything**
 
