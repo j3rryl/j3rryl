@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Munroe</h1>
 <h3 align="center">A passionate UI / UX developer.</h3>
+<img align="right" alt="Coding" width="400" src="/slide.gif">
+
 
 - 🔭 I’m currently working on **iRense, feel free to explore that and add suggestions**
 
