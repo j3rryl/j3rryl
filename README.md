@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **deep learning, well, AI in general and its impact on the tech industry**
 
-- 👨‍💻 Also check out my portfolio at [https://jeremy-munroe.vercel.app](https://j3rryl.github.io/jeremy-munroe/)
+- 👨‍💻 Also check out my portfolio at [https://jeremy-munroe.vercel.app]( https://jeremy-munroe.vercel.app)
 
 - 💬 Ask me about **C++, Java, Javascript, Python, UI/UX Design, yeah I'm multilingual🙂**
 
