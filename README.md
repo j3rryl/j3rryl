@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, Java, Javascript, Python, UI/UX Design, yeah I'm multilingual🙂**
 
-- 📫 How to reach me **jeremymunroe0@gmail.com, jeremy.munroe@alvocatfresh.co.ke**
+- 📫 How to reach me **jeremymunroe0@gmail.com**
 
 - 📄 Know about my experiences at [https://j3rryl.github.io/jeremy-munroe/](https://j3rryl.github.io/jeremy-munroe/)
 
