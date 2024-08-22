@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **iRense, feel free to explore that and add suggestions**
 
-- 🌱 I’m currently learning **deep learning, well, AI in general and its impact on the tech industry**
+- 🌱 I am currently learning **deep learning, well, AI in general and its impact on the tech industry**
 
 - 👨‍💻 Also check out my portfolio at [https://jeremy-munroe.vercel.app]( https://jeremy-munroe.vercel.app)
 
