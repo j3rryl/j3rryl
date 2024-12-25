@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremy Munroeee!</h1>
+<h1 align="center">Hi 👋, I'm Jeremy Munroee!</h1>
 <h3 align="center">A passionate UI / UX developer</h3>
 <img align="right" alt="Coding" width="400" src="/slide.gif">
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences at [https://j3rryl.github.io/jeremy-munroe/](https://j3rryl.github.io/jeremy-munroe/)
 
-- ⚡ Fun fact **I'm an eccentric, and all about learning a module every second.**
+- ⚡ Fun fact **Io'm an eccentric, and all about learning a module every second.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
